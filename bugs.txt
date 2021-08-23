@@ -1,5 +1,6 @@
 wenn zeiten nicht in 6 spalte bzw datum nicht in der ersten
 wenn es nicht in der 4 anfängt
 wenn datum nicht nach reihe sortiert sind (bei mehreren einträgen für gleiches datum)
+wenn ein tag 2x eingetragen aber leerzeile dazwischen
 
 
